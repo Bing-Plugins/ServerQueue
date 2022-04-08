@@ -1,0 +1,6 @@
+name: ServerQueue
+version: 1.1
+main: net.rfpixel.queue.main.Main
+author:
+  - redstone_fun
+  - Bing_Yanchi
